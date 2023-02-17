@@ -9,4 +9,7 @@ There are a couple of differnt rate limiting algorithms:
 3.  (r, t) Traffic Shaping
 
 
+# Testing 
+Testing can be done using Postman 
 
+localhost:8080/greeting?name=WhateverYourNameIs
